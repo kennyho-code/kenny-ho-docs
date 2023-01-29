@@ -1,11 +1,10 @@
 name: Deploy to GitHub Pages
 
 on:
-  push:
-    branches:
-      - main
-    # Review gh actions docs if you want to further define triggers, paths, etc
-    # https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#on
+  workflow_dispatch: # Putting here is also fine!!
+  release:
+    types: [created]
+
 
 jobs:
   deploy:
@@ -21,7 +20,7 @@ jobs:
       - name: Install dependencies
         run: npm install
       - name: Build website
-        run: yarn build
+        run: npm run build
 
       # Popular action to deploy to GitHub Pages:
       # Docs: https://github.com/peaceiris/actions-gh-pages#%EF%B8%8F-docusaurus
