@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkenny_ho_docs=self.webpackChunkkenny_ho_docs||[]).push([[5548],{6399:o=>{o.exports=JSON.parse('{"permalink":"/kenny-ho-docs/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

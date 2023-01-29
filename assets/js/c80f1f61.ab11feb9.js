@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkenny_ho_docs=self.webpackChunkkenny_ho_docs||[]).push([[279],{458:o=>{o.exports=JSON.parse('{"label":"hola","permalink":"/kenny-ho-docs/blog/tags/hola","allTagsPath":"/kenny-ho-docs/blog/tags","count":1}')}}]);

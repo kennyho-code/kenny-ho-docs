@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkenny_ho_docs=self.webpackChunkkenny_ho_docs||[]).push([[7149],{9804:e=>{e.exports=JSON.parse('{"permalink":"/kenny-ho-docs/blog/tags/hello","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
